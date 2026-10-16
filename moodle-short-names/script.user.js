@@ -13,6 +13,9 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
+
+// @downloadURL  https://github.com/darius-it/tampermonkey-scripts/raw/refs/heads/main/moodle-short-names/script.user.js
+// @uploadURL    https://github.com/darius-it/tampermonkey-scripts/raw/refs/heads/main/moodle-short-names/script.user.js
 // ==/UserScript==
 
 (() => {
